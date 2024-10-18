@@ -109,7 +109,7 @@ body:
   validations:
     required: true
 
-- type: checkboxes
+- type: dropdown
   attributes:
     label: Select the configuration used for building or obtaining the uYouEnhanced ipa. (Optional)
     options:
